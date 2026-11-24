@@ -10,7 +10,7 @@ Design the **Arabic, single-store Mini Accounting System** described in the requ
 
 ## 1. Team split
 
-### Teammate 1 — Foundation, Login & Master Data
+### Teammate 1 — Foundation, Login & Master Data [Ali]
 
 **Own these screens:**
 1. Login screen.
@@ -37,7 +37,7 @@ Design the **Arabic, single-store Mini Accounting System** described in the requ
 
 ---
 
-### Teammate 2 — Sales & Purchases
+### Teammate 2 — Sales & Purchases [Mazen]
 
 **Own these screens:**
 1. Sales invoices list with search/filter.
@@ -74,7 +74,7 @@ Design the **Arabic, single-store Mini Accounting System** described in the requ
 
 ---
 
-### Teammate 3 — Cashbox, Financial Transactions & Debts
+### Teammate 3 — Cashbox, Financial Transactions & Debts [Sakher]
 
 **Own these screens:**
 1. Cashbox overview/current balance.
@@ -116,7 +116,7 @@ Design the **Arabic, single-store Mini Accounting System** described in the requ
 
 ---
 
-### Teammate 4 — Inventory, Dashboard, Reports, Settings & Backup
+### Teammate 4 — Inventory, Dashboard, Reports, Settings & Backup [Hamza]
 
 **Own these screens:**
 1. Inventory overview / current stock.
